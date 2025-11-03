@@ -31,7 +31,7 @@ function parseArgs() {
 
 function printHelp() {
   console.log(`
-Usage: node nmap-js-scanner.js --host <target> [options]
+Usage: node port-scanner.js --host <target> [options]
 
 Options:
   -h, --host <target>         target IP or hostname (required)
